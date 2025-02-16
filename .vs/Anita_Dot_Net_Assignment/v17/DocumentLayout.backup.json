@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\data\\migrations\\20250216122745_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:data\\migrations\\20250216122745_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|c:\\users\\dell\\desktop\\anita project\\anita_dot_net_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4439B26B-CEF4-401E-A17D-F91651555B57}|Anita_Dot_Net_Assignment.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T12:22:11.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250216122745_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Data\\Migrations\\20250216122745_Initial.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250216122745_Initial.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Data\\Migrations\\20250216122745_Initial.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250216122745_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:27:46.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:25:43.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:23:22.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T12:28:32.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:21:41.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:19:09.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:18:47.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-16T12:18:07.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:15:02.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\anita project\\Anita_Dot_Net_Assignment\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T12:14:23.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
